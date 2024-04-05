@@ -26,7 +26,7 @@ def lemmatize_text(text):
     return lemmatized_text
 
 # Define the URL
-url = "https://www.mayoclinic.org/diseases-conditions/bags-under-eyes/symptoms-causes/syc-20369927"
+url = "https://www.mayoclinic.org/diseases-conditions/kidney-cancer/symptoms-causes/syc-20352664"
 
 # Send a GET request
 response = requests.get(url)
@@ -52,8 +52,8 @@ if len(ul_elements) >= 7:
         list_items.append(lemmatized_text)
 
     # Write the list items to a CSV file
-    file_exists = os.path.isfile('disease_data_12.csv')
-    with open('disease_data_12.csv', 'a', newline='', encoding='utf-8') as csvfile:
+    file_exists = os.path.isfile('disease_data_14.csv')
+    with open('disease_data_14.csv', 'a', newline='', encoding='utf-8') as csvfile:
         writer = csv.writer(csvfile)
         # If the file doesn't exist, write the header
         if not file_exists:
