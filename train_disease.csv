@@ -1,0 +1,902 @@
+text,label
+abdominal aortic aneurysm fib,disease
+absence seizure abnormally excessive sweating,disease
+acanthosis nigricans abscess bartholin,disease
+achalasia acid reflux,disease
+achilles tendinitis acid reflux infant,disease
+achilles tendon rupture acne inversa,disease
+acl injury acquired immunodeficiency syndrome,disease
+acne acute granulocytic leukemia,disease
+acoustic neuroma acute inflammatory demyelinating polyneuropathy,disease
+acromegaly acute lymphoblastic leukemia,disease
+actinic keratosis acute lymphoid leukemia,disease
+acute coronary syndrome acute myeloblastic leukemia,disease
+acute flaccid myelitis afm acute myeloid leukemia,disease
+acute kidney failure acute nonlymphocytic leukemia,disease
+acute liver failure acute radiation sickness,disease
+acute lymphocytic leukemia acute radiation syndrome,disease
+acute myelogenous leukemia acute renal failure,disease
+acute sinusitis acute respiratory distress syndrome,disease
+addison disease addiction alcohol,disease
+adenomyosis addiction gambling,disease
+adjustment disorder addiction nicotine,disease
+adnexal tumor adenitis mesenteric,disease
+adrenal cancer adhd child,disease
+adrenoleukodystrophy adhd adult,disease
+adult disorder adhd adhesive capsulitis,disease
+adult still disease adolescent schizophrenia,disease
+age spot liver spot adrenal mass,disease
+agoraphobia afm,disease
+airplane ear macular degeneration dry,disease
+albinism macular degeneration wet,disease
+alcohol intolerance agnogenic myeloid metaplasia,disease
+alcohol poisoning aidp,disease
+alcohol use disorder nan,disease
+alcoholic hepatitis alcohol addiction,disease
+allergy hepatitis,disease
+syndrome allergic granulomatosis,disease
+alzheimer disease allergic granulomatosis angiitis,disease
+ambiguous genitalia allergic rhinitis,disease
+ameloblastoma allergy dust mite,disease
+amenorrhea allergy egg,disease
+amnesia allergy food,disease
+ampullary cancer allergy latex,disease
+amyloidosis allergy milk,disease
+amyotrophic lateral sclerosis al allergy mold,disease
+anal cancer allergy nickel,disease
+anal fissure allergy peanut,disease
+anal fistula allergy penicillin,disease
+anal itching allergy pet,disease
+anaphylaxis allergy shellfish,disease
+anemia allergy wheat,disease
+aneurysm alopecia,disease
+angelman syndrome al,disease
+angina alveolar osteitis,disease
+angiosarcoma amblyopia,disease
+ankylosing spondylitis american trypanosomiasis,disease
+anorexia nervosa amnesia transient global,disease
+anorgasmia woman amnestic syndrome,disease
+anterior vaginal prolapse cystocele amyloid disease,disease
+anthrax anemia aplastic,disease
+diarrhea anemia cooley,disease
+antiphospholipid syndrome anemia iron deficiency,disease
+antisocial personality disorder anemia mediterranean,disease
+anxiety disorder anemia sickle cell,disease
+aortic aneurysm anemia vitamin deficiency,disease
+aortic dissection aneurysm abdominal aortic,disease
+aortic valve disease aneurysm aortic,disease
+aortic valve regurgitation aneurysm brain,disease
+aortic valve stenosis aneurysm cerebral,disease
+aphasia aneurysm popliteal,disease
+aplastic anemia aneurysm thoracic aortic,disease
+appendicitis angiitis,disease
+ards angina pectoris,disease
+arteriosclerosis atherosclerosis angioedema hive,disease
+arteriovenous fistula angiofollicular lymph node hyperplasia,disease
+arteriovenous malformation ankle fracture,disease
+arthritis ankle sprain,disease
+asbestosis ankyloglossia,disease
+ascariasis anorexia,disease
+aspergillosis anterior cruciate ligament injury,disease
+asthma anterior vaginal prolapse,disease
+asthma attack colitis,disease
+astigmatism anxiety disorder generalized,disease
+astrocytoma anxiety disorder social,disease
+ataxia aortic aneurysm abdominal,disease
+atelectasis aortic coarctation,disease
+athlete foot apd,disease
+atopic dermatitis eczema aphasia primary progressive,disease
+atrial fibrillation aphthous stomatitis,disease
+atrial flutter aphthous ulcer,disease
+atrial septal defect asd apical ballooning syndrome,disease
+atrial tachycardia aps,disease
+atrioventricular canal defect arenavirus,disease
+atrioventricular nodal reentry tachycardia avnrt argentine hemorrhagic fever,disease
+disorder adhd child arm fracture,disease
+atypical hyperplasia breast malformation,disease
+auditory processing disorder arrhythmia,disease
+autism spectrum disorder arteritis giant cell,disease
+autoimmune hepatitis arteritis takayasu,disease
+autoimmune pancreatitis arthritis basal joint,disease
+autonomic neuropathy arthritis degenerative,disease
+avascular necrosis osteonecrosis arthritis gouty,disease
+baby acne baldness,disease
+back pain barber itch,disease
+bacterial vaginosis barlow syndrome,disease
+bad breath barotitis medium,disease
+bag eye barotrauma,disease
+baker cyst basal joint arthritis,disease
+balance problem bdd,disease
+barrett esophagus benign migratory glossitis,disease
+bartholin cyst benign paroxysmal positional vertigo,disease
+basal cell carcinoma berger disease,disease
+bedbug bile duct cancer,disease
+bedsore pressure ulcer binge drinking,disease
+nan blackhead,disease
+bee sting bladder calculus,disease
+behcet disease bladder control loss,disease
+bell palsy bladder infection,disease
+benign adrenal tumor bladder inflammation,disease
+benign paroxysmal positional vertigo bppv bladder prolapse,disease
+benign peripheral nerve tumor blastocystosis,disease
+benign prostatic hyperplasia bph blocked ureter,disease
+bicuspid aortic valve bm,disease
+bile reflux body odor sweating,disease
+disorder bone infection,disease
+bipolar disorder bowel incontinence,disease
+black hairy tongue bowel obstruction,disease
+bladder cancer bph,disease
+bladder exstrophy syndrome,disease
+bladder stone brain arteriovenous malformation,disease
+blastocystis hominis brain tumor child,disease
+blepharitis breast cancer inflammatory,disease
+blocked tear duct breast cancer male,disease
+blood urine hematuria breast infection,disease
+body dysmorphic disorder broken blood vessel eye,disease
+body louse broken hip,disease
+boil carbuncle bunyavirus,disease
+bone cancer burn injury,disease
+bone metastasis burning thigh pain,disease
+bone spur bursitis knee,disease
+difficile infection difficile colitis,disease
+calciphylaxis callus corn,disease
+cancer cancer acute lymphocytic leukemia,disease
+canker sore cancer anal,disease
+carbon monoxide poisoning cancer basal cell,disease
+carcinoid syndrome cancer bladder,disease
+carcinoid tumor cancer bone,disease
+carcinoma unknown primary cancer breast,disease
+cardiogenic shock cancer carcinoid tumor,disease
+cardiomyopathy cancer cervical,disease
+carotid artery disease cancer chronic lymphocytic leukemia,disease
+carpal tunnel syndrome cancer chronic myelogenous leukemia,disease
+castleman disease cancer colon,disease
+cataract cancer endometrial,disease
+cavernous malformation cancer esophageal,disease
+cavity tooth decay cancer eye melanoma,disease
+celiac disease cancer gallbladder,disease
+cellulite cancer gastric,disease
+cellulitis cancer hairy cell leukemia,disease
+central nervous system vascular malformation cancer hodgkin disease,disease
+central sleep apnea cancer hurthle cell,disease
+cerebral palsy cancer inflammatory breast,disease
+cervical cancer cancer kidney,disease
+cervical dystonia cancer leukemia,disease
+cervical spondylosis cancer lip,disease
+cervicitis cancer liver,disease
+chaga disease cancer lung,disease
+disease cancer male breast,disease
+chemo brain cancer merkel cell,disease
+chest pain cancer mesothelioma,disease
+chiari malformation cancer mouth,disease
+chickenpox cancer multiple myeloma,disease
+chilblain cancer nasopharyngeal,disease
+child abuse cancer neuroblastoma,disease
+childhood apraxia speech cancer lymphoma,disease
+childhood asthma cancer oral,disease
+childhood obesity cancer ovarian,disease
+childhood schizophrenia cancer pancreatic,disease
+chlamydia trachomatis cancer paraneoplastic syndrome,disease
+cholangiocarcinoma bile duct cancer cancer prostate,disease
+cholecystitis cancer rectal,disease
+cholera cancer retinoblastoma,disease
+cholestasis pregnancy cancer skin,disease
+chondrosarcoma cancer soft tissue sarcoma,disease
+chordoma cancer squamous cell,disease
+choroid plexus carcinoma cancer stomach,disease
+chronic cough cancer testicular,disease
+chronic daily headache cancer throat,disease
+chronic exertional compartment syndrome cancer thyroid,disease
+chronic granulomatous disease cancer uterine,disease
+chronic hive cancer vagina,disease
+chronic kidney disease cancer vulvar,disease
+chronic lymphocytic leukemia cancer wilms tumor,disease
+chronic myelogenous leukemia candidiasis oral,disease
+chronic pelvic pain candidiasis vaginal,disease
+chronic sinusitis carbuncle boil,disease
+chronic traumatic encephalopathy cardiac arrest sudden,disease
+syndrome cardiac ischemia,disease
+cirrhosis cardiomegaly,disease
+claudication cardiomyopathy dilated,disease
+cleft lip cleft palate cardiomyopathy hypertrophic,disease
+clubfoot cardiospasm,disease
+cluster headache cardiovascular disease,disease
+coarctation aorta carotid artery stenosis,disease
+cold sore carotid insufficiency,disease
+cold urticaria ca,disease
+colic cdh,disease
+colon cancer celiac artery compression,disease
+colon polyp celiac artery compression syndrome,disease
+color blindness celiac axis syndrome,disease
+coma celiac trunk compression syndrome,disease
+common cold cello,disease
+common cold baby central auditory processing disorder,disease
+common variable immunodeficiency cercarial dermatitis,disease
+common wart cerebral aneurysm,disease
+complex regional pain syndrome cerebrospinal fluid leak,disease
+complicated grief cerebrovascular accident,disease
+compulsive gambling cerumen impaction,disease
+compulsive sexual behavior cervical osteoarthritis,disease
+concussion cervical pain,disease
+congenital adrenal hyperplasia chd,disease
+congenital diaphragmatic hernia cdh chemical dependency,disease
+congenital heart defect child chest wall pain,disease
+congenital heart disease adult child maltreatment,disease
+congenital mitral valve anomaly chlamydia,disease
+congenital myasthenic syndrome cholangitis primary sclerosing,disease
+conjoined twin chorea huntington,disease
+constipation chronic adrenal insufficiency,disease
+constipation child chronic compartment syndrome,disease
+contact dermatitis chronic fatigue syndrome,disease
+copd chronic kidney failure,disease
+corn callus chronic lymphocytic thyroiditis,disease
+coronary artery disease chronic obstructive pulmonary disease,disease
+coronavirus disease chronic renal failure,disease
+corticobasal degeneration corticobasal syndrome chronic vulvar pain,disease
+costochondritis cjd,disease
+cough headache ckd,disease
+cradle cap syndrome,disease
+craniopharyngioma clinical depression,disease
+craniosynostosis cll,disease
+disease clostridioides difficile infection,disease
+crohn disease clostridium difficile infection,disease
+croup coccidioidomycosis,disease
+cryoglobulinemia cold allergy,disease
+csf leak cerebrospinal fluid leak cold exposure,disease
+cushing syndrome cold common,disease
+cutaneous lymphoma colitis ischemic,disease
+cutaneous lymphoma colitis microscopic,disease
+cyclic vomiting syndrome colitis pseudomembranous,disease
+cyclothymia cyclothymic disorder colitis ulcerative,disease
+cystic fibrosis collapsed lung,disease
+cystitis collapsed lung,disease
+cytomegalovirus cmv infection colonic ischemia,disease
+dandruff daytime sleepiness,disease
+de quervain tenosynovitis dci,disease
+deep vein thrombosis dvt ddh,disease
+dehydration decreased tear production,disease
+delayed ejaculation deficient color vision,disease
+delayed sleep phase degenerative arthritis,disease
+delirium delayed gastric emptying,disease
+dementia delayed sleep phase syndrome,disease
+dengue fever delayed phase sleep disorder,disease
+disorder dementia frontotemporal,disease
+depression major depressive disorder dementia lewy body,disease
+dermatitis dementia vascular,disease
+dermatofibrosarcoma protuberans dengue hemorrhagic fever,disease
+dermatographia dermatographism dependence nicotine,disease
+dermatomyositis depression postpartum,disease
+desmoid tumor depression teen,disease
+desmoplastic small round cell tumor dermatitis atopic,disease
+deviated septum dermatitis cercarial,disease
+diabetes dermatitis contact,disease
+diabetes insipidus dermatitis scratch,disease
+diabetic coma dermatitis seborrheic,disease
+diabetic hypoglycemia dermatographism,disease
+diabetic ketoacidosis dermatophytosis,disease
+diabetic nephropathy kidney disease detached retina,disease
+diabetic neuropathy developmental dysplasia hip,disease
+diabetic retinopathy devic disease,disease
+diaper rash dfsp,disease
+diarrhea diabetes mellitus,disease
+digeorge syndrome deletion syndrome diabetes gestational,disease
+dilated cardiomyopathy diabetes type,disease
+diphtheria diabetes type child,disease
+dislocated shoulder diabetes type,disease
+dissociative disorder diabetes type child,disease
+diverticulitis diarrhea,disease
+dizziness diarrhea traveler,disease
+double uterus difficulty speaking,disease
+right ventricle difficulty swallowing,disease
+syndrome dissecting aneurysm,disease
+dressler syndrome drop foot,disease
+drug addiction substance use disorder dsps,disease
+drug allergy dsrct,disease
+dry eye dswpd,disease
+dry macular degeneration dunbar syndrome,disease
+dry mouth dvt,disease
+dry skin dysmenorrhea,disease
+dry socket dyspareunia,disease
+ductal carcinoma situ dci dyspepsia,disease
+dumping syndrome dysphonia,disease
+dupuytren contracture dysrhythmias,disease
+dural arteriovenous fistula dysthymia,disease
+dust mite allergy dystonia cervical,disease
+coli ear infection outer ear,disease
+ear infection middle ear eardrum ruptured,disease
+earwax blockage early puberty,disease
+eating disorder eating disorder anorexia,disease
+ebstein anomaly eating disorder binge eating,disease
+ectopic pregnancy eating disorder bulimia,disease
+ectropion ectopic heartbeat,disease
+edema eczema,disease
+egg allergy eczema dyshidrotic,disease
+syndrome ed,disease
+ehrlichiosis anaplasmosis edema pulmonary,disease
+eisenmenger syndrome embolism pulmonary,disease
+elevated blood pressure end stage kidney failure,disease
+embryonal tumor endocardial cushion defect,disease
+emphysema endometrial polyp,disease
+encephalitis enlarged prostate,disease
+encopresis enlarged thyroid,disease
+endocarditis eosinophilic granulomatosis polyangiitis,disease
+endometrial cancer epicondylitis lateral,disease
+endometriosis epilepsy frontal lobe,disease
+renal disease erythema infectiosum,disease
+enlarged breast men gynecomastia escherichia coli infection,disease
+enlarged heart esophageal achalasia,disease
+enlarged liver excess facial hair woman,disease
+enlarged spleen splenomegaly excess growth hormone,disease
+entropion excessive daytime sleepiness,disease
+eosinophilic esophagitis excessive menstrual bleeding,disease
+ependymoma external otitis,disease
+epidermoid cyst extrasystole,disease
+epidermolysis bullosa eyelid inflammation,disease
+factitious disorder facial hair excess woman,disease
+factor v leiden facial palsy,disease
+familial adenomatous polyposis fallen arch,disease
+familial hypercholesterolemia fallot tetralogy,disease
+familial mediterranean fever familial paroxysmal peritonitis,disease
+farsightedness fap,disease
+febrile seizure fever blister,disease
+fecal incontinence fever valley,disease
+female infertility fever viral hemorrhagic,disease
+female sexual dysfunction fh,disease
+fetal alcohol syndrome fibroid uterine,disease
+fetal macrosomia fibrosis cystic,disease
+fever fibrosis interstitial pulmonary,disease
+fibroadenoma fibrosis pulmonary,disease
+fibrocystic breast fifth disease,disease
+fibromuscular dysplasia filovirus,disease
+fibromyalgia fistula arteriovenous,disease
+flatfoot flavivirus,disease
+floor mouth cancer floater,disease
+focal segmental glomerulosclerosis fsgs floppy valve syndrome,disease
+folliculitis flu,disease
+food allergy flu swine,disease
+food poisoning fluid around heart,disease
+foot drop fnd,disease
+frontal lobe seizure folate deficiency anemia,disease
+frontotemporal dementia food allergy egg,disease
+frostbite food allergy milk,disease
+frozen shoulder illness,disease
+fuchs dystrophy foot fracture,disease
+functional dyspepsia foramen ovale,disease
+functional neurologic disorder fracture arm,disease
+waldenstrom macroglobulinemia wart common,disease
+wet macular degeneration wart genital,disease
+wheat allergy wart plantar,disease
+whiplash wart venereal,disease
+whipple disease water knee,disease
+whooping cough wegener granulomatosis,disease
+wilms tumor wermer syndrome,disease
+wilson disease wermer syndrome,disease
+wpw syndrome white blood cell disorder child,disease
+wrinkle whitehead,disease
+wrist pain wisdom teeth impacted,disease
+agammaglobulinemia xerosis,disease
+yeast infection vaginal yersinia pestis,disease
+galactorrhea gad,disease
+gallbladder cancer gallbladder inflamation,disease
+gallstone gambling compulsive,disease
+ganglion cyst gastric cancer,disease
+gangrene gastric emptying delayed,disease
+gas gas pain gastric emptying rapid,disease
+gastritis gastroenteritis viral,disease
+gastroesophageal reflux disease gerd gender identity disorder,disease
+gastrointestinal bleeding gerd,disease
+gastrointestinal stromal tumor gist german measles,disease
+gastroparesis giant lymph node hyperplasia,disease
+gaucher disease glossodynia,disease
+gender dysphoria glucocerebrosidase deficiency,disease
+generalized anxiety disorder enteropathy,disease
+genital herpes grief,disease
+genital wart gross hematuria,disease
+geographic tongue growth hormone excess,disease
+germ cell tumor gum disease gingivitis,disease
+gestational diabetes gum disease periodontitis,disease
+giant cell arteritis gynecomastia,disease
+flu swine flu pylorus infection,disease
+hair loss flu,disease
+hairy cell leukemia flu,disease
+hammertoe mallet toe flu,disease
+hamstring injury disorder,disease
+disease hairy tongue,disease
+hangover halitosis,disease
+hantavirus pulmonary syndrome hand fracture,disease
+hashimoto disease hardening artery,disease
+hay fever hav infection,disease
+head neck cancer hbv infection,disease
+head louse hcc,disease
+headache child hcv infection,disease
+hearing loss head trauma coma,disease
+heart arrhythmia headache chronic daily,disease
+heart attack headache cluster,disease
+heart disease headache exercise,disease
+heart failure headache migraine,disease
+heart murmur headache primary cough,disease
+heart palpitation headache sex,disease
+heart valve disease headache sinus,disease
+heartburn headache spinal,disease
+heat exhaustion headache tension,disease
+heat rash headache thunderclap,disease
+heatstroke health anxiety,disease
+heavy menstrual bleeding heart defect adult,disease
+helicobacter pylorus pylorus infection heel pain,disease
+hemangioma hemangioma liver,disease
+hemifacial spasm hematoma intracranial,disease
+hemochromatosis hematuria,disease
+hemolytic uremic syndrome hus hep,disease
+hemophilia hep b,disease
+hemorrhoid hep c,disease
+purpura hepatitis virus infection,disease
+hepatitis hepatitis b virus infection,disease
+hepatitis b hepatitis c virus infection,disease
+hepatitis c hepatitis autoimmune,disease
+hepatocellular carcinoma hepatitis toxic,disease
+hepatopulmonary syndrome hepatolenticular degeneration,disease
+hereditary hemorrhagic telangiectasia hepatomegaly,disease
+herniated disk hereditary hemochromatosis,disease
+hiatal hernia hereditary motor sensory neuropathy,disease
+hiccup hereditary nonpolyposis colorectal cancer syndrome,disease
+hidradenitis suppurativa hernia hiatal,disease
+high blood pressure hypertension hernia inguinal,disease
+high blood pressure child hernia umbilical,disease
+high cholesterol herpes zoster,disease
+hilar cholangiocarcinoma herpes zoster oticus,disease
+hip dysplasia herpes genital,disease
+hip fracture high blood pressure secondary,disease
+hip labral tear priapism,disease
+hirschsprung disease hive chronic,disease
+hirsutism hoarse voice,disease
+histoplasmosis hodgkin disease,disease
+nan hordeolum,disease
+hive angioedema syndrome,disease
+hoarding disorder human immunodeficiency virus,disease
+hodgkin lymphoma hodgkin disease human papillomavirus infection,disease
+horner syndrome hunchback,disease
+hot flash hunt syndrome,disease
+hpv infection progeria syndrome,disease
+huntington disease hypercholesterolemia,disease
+hurthle cell cancer hypercholesterolemia familial,disease
+hydrocele hypercortisolism,disease
+hydrocephalus hypermenorrhea,disease
+hydronephrosis hyperopia,disease
+hypercalcemia hypersexuality,disease
+hypereosinophilic syndrome hypertension,disease
+hyperglycemia diabetes hypertension,disease
+hyperhidrosis hypertension pulmonary,disease
+hyperoxaluria oxalosis hypoactive sexual desire disorder,disease
+hyperparathyroidism hypochondria,disease
+hyperthyroidism overactive thyroid hypoglycemia diabetic,disease
+hypertrophic cardiomyopathy hypohydration,disease
+hypoglycemia hypotension,disease
+ulcerative colitis ulcer aphthous,disease
+ulnar wrist pain ulcer peptic,disease
+umbilical hernia ulcer rectal,disease
+undescended testicle wrist pain,disease
+undifferentiated pleomorphic sarcoma uncontrollable laughter cry,disease
+ureteral cancer underactive thyroid,disease
+ureteral obstruction puffiness,disease
+urethral stricture upset stomach,disease
+urinary incontinence urine blood,disease
+urinary tract infection uti urticaria,disease
+urine color urticaria,disease
+uterine fibroid uterine cancer,disease
+uterine polyp uterine leiomyoma,disease
+uterine prolapse uterine myoma,disease
+uveitis uterus didelphys,disease
+vaginal agenesis vaginal candidiasis,disease
+vaginal atrophy vaginal prolapse posterior,disease
+vaginal cancer valvular heart disease,disease
+vaginal fistula variant cjd,disease
+vaginitis varicella,disease
+valley fever varix esophageal,disease
+varicocele variola,disease
+varicose vein vasomotor rhinitis,disease
+vascular dementia vcjd,disease
+vascular ring velocardiofacial syndrome,disease
+vasculitis venereal wart,disease
+vasovagal syncope ventricular premature contraction,disease
+ventricular fibrillation vestibular schwannoma,disease
+ventricular septal defect vsd nan,disease
+ventricular tachycardia vocal fold paralysis,disease
+vertebral tumor vpcs,disease
+idiopathic hypersomnia ibd,disease
+iga nephropathy berger disease ibs,disease
+illness anxiety disorder idiopathic intracranial hypertension,disease
+immune thrombocytopenia itp idiopathic myelofibrosis,disease
+impacted wisdom teeth idiopathic thrombocytopenic purpura,disease
+impetigo idiopathic toe walking,disease
+incompetent cervix iga vasculitis,disease
+indigestion iih,disease
+infant jaundice immune thrombocytopenic purpura,disease
+infant reflux impaired glucose tolerance,disease
+infectious disease impotence,disease
+infertility inborn error metabolism,disease
+inflammatory bowel disease ibd incontinence bowel,disease
+inflammatory breast cancer incontinence fecal,disease
+influenza flu incontinence nighttime,disease
+ingrown hair incontinence urinary,disease
+ingrown toenail infantile hemangioma,disease
+inguinal hernia infectious arthritis,disease
+inherited metabolic disorder infertility female,disease
+insomnia infertility male,disease
+intermittent explosive disorder inflamed gallbladder,disease
+interstitial cystitis inflamed pancreas,disease
+interstitial lung disease inflamed pericardium,disease
+intestinal ischemia influenza,disease
+intestinal obstruction influenza swine flu,disease
+intracranial hematoma insulin resistance syndrome,disease
+intracranial venous malformation intermittent claudication,disease
+intussusception intestinal lipodystrophy,disease
+invasive lobular carcinoma intraductal carcinoma,disease
+iritis intrahepatic cholestasis pregnancy,disease
+iron deficiency anemia iron overload,disease
+irritable bowel syndrome ischemia intestinal,disease
+ischemic colitis ischemic bone necrosis,disease
+itchy skin pruritus ischemic priapism,disease
+jaw tumor cyst jumper knee,disease
+jellyfish sting juvenile rheumatoid arthritis,disease
+jet lag disorder juvenile schizophrenia,disease
+tachycardia takotsubo cardiomyopathy,disease
+takayasu arteritis tapvr,disease
+tapeworm infection tb,disease
+disease tbi,disease
+teen depression tear decreased production,disease
+temporal lobe seizure teeth grinding,disease
+ten temporal arteritis,disease
+tendinitis temporomandibular disorder,disease
+tennis elbow temporomandibular joint disorder,disease
+tension headache tendinitis achilles,disease
+testicular cancer tendinitis patellar,disease
+testicular torsion tenosynovitis de quervain,disease
+tetanus testicle retractile,disease
+tetralogy fallot testicle undescended,disease
+thalassemia testosterone deficiency,disease
+thoracic aortic aneurysm tga,disease
+thoracic outlet syndrome measles,disease
+throat cancer thromboangiitis obliterans,disease
+thrombocytopenia thrush oral,disease
+thrombocytosis thyroid gland enlargement,disease
+thrombophlebitis thyroid overactive,disease
+thumb arthritis thyroiditis chronic lymphocytic,disease
+thunderclap headache tia,disease
+thyroid cancer tic douloureux,disease
+thyroid nodule tinea barbae,disease
+tinea versicolor tinea capitis,disease
+tinnitus tinea corporis,disease
+tmj disorder tinea cruris,disease
+toe walking child tinea pedis,disease
+tongue cancer tmd,disease
+ankyloglossia toenail fungus,disease
+grand mal seizure tongue tie,disease
+tonsil cancer seizure,disease
+tonsillitis tooth decay,disease
+tooth abscess torsion testicular,disease
+torn meniscus torticollis spasmodic,disease
+total anomalous pulmonary venous return tapvr total anomalous pulmonary venous connection,disease
+tourette syndrome toxemia,disease
+toxic hepatitis toxic epidermal necrolysis,disease
+toxic shock syndrome transposition great vessel,disease
+toxoplasmosis traumatic grief,disease
+trachoma trisomy syndrome,disease
+transient global amnesia trisomy x,disease
+transient ischemic attack tia trouble swallowing,disease
+transposition great artery trypanosomiasis american,disease
+transverse myelitis tumor salivary gland,disease
+traumatic brain injury tympanic membrane perforation,disease
+kaposi sarcoma keratoconjunctivitis sicca,disease
+kawasaki disease keratosis actinic,disease
+keloid scar keratosis seborrheic,disease
+keratitis ketoacidosis diabetic,disease
+keratoconus kidney disease chronic,disease
+keratosis pilaris kidney failure acute,disease
+kidney cancer kidney failure chronic,disease
+kidney cyst kissing disease,disease
+kidney infection klatskin tumor,disease
+kidney stone kp,disease
+rabies ra,disease
+radiation enteritis rapid gastric emptying,disease
+radiation sickness rapid heartbeat,disease
+ramsay hunt syndrome rash poison ivy,disease
+raynaud disease reading disability specific,disease
+reactive arthritis rebound headache,disease
+reactive attachment disorder rectal inflammation,disease
+rectal cancer rectal itching,disease
+rectal prolapse rectal ulcer,disease
+rectovaginal fistula recurrent oral ulcer,disease
+recurrent breast cancer red eye,disease
+rem sleep behavior disorder reflux bile,disease
+renal artery stenosis reflux vesicoureteral,disease
+residual limb pain regurgitation aortic valve,disease
+respiratory syncytial virus rsv regurgitation mitral valve,disease
+restless leg syndrome reiter syndrome,disease
+retinal detachment renal cancer,disease
+retinal disease renal failure acute,disease
+retinoblastoma renal lithiasis,disease
+retractile testicle retinopathy diabetic,disease
+retrograde ejaculation rhinitis allergic,disease
+rett syndrome rhinitis nonallergic,disease
+reye syndrome rhinitis vasomotor,disease
+rhabdomyosarcoma rib fracture,disease
+rheumatic fever rift valley fever,disease
+rheumatoid arthritis ringing ear,disease
+rickets ringworm foot,disease
+ringworm body rls,disease
+ringworm scalp road rage,disease
+rosacea round back,disease
+roseola rsv,disease
+rotator cuff injury rubeola,disease
+rotavirus runner knee,disease
+rubella ruptured disk,disease
+sacral dimple sad,disease
+sacroiliitis salmonellosis,disease
+salivary gland tumor sarcoma bone cancer,disease
+salmonella infection sarcoma soft tissue,disease
+sarcoidosis sbbo,disease
+sarcoma scad,disease
+scabies scalded mouth syndrome,disease
+scarlet fever scarlatina,disease
+schizoaffective disorder schizophrenia adolescent,disease
+schizoid personality disorder schizophrenia childhood,disease
+schizophrenia schizophrenia juvenile,disease
+schizotypal personality disorder sci,disease
+schwannoma sclerosing cholangitis,disease
+sciatica sclerosis multiple,disease
+scleroderma sclerosis systemic,disease
+sclerosing mesenteritis seasonal allergy,disease
+scoliosis sebaceous cyst,disease
+scorpion sting secondary brain cancer,disease
+scrotal mass seid,disease
+seasonal affective disorder sad seizure disorder,disease
+sebaceous carcinoma seizure absence,disease
+seborrheic dermatitis seizure febrile,disease
+seborrheic keratosis seizure grand mal,disease
+secondary hypertension seizure petit mal,disease
+seizure seizure temporal lobe,disease
+selective iga deficiency self harming,disease
+nan septal defect atrial,disease
+separation anxiety disorder septal defect atrioventricular,disease
+sepsis septal defect ventricular,disease
+septic arthritis severe acute respiratory syndrome,disease
+serotonin syndrome severe brain injury coma,disease
+severe acute respiratory syndrome sars sexual dysfunction female,disease
+sex headache sexual obsession,disease
+sexually transmitted disease std shoulder dislocation,disease
+shaken baby syndrome syndrome,disease
+shellfish allergy sibo,disease
+shigella infection sids,disease
+shin splint sin nombre virus infection,disease
+shingle sinusitis acute,disease
+short bowel syndrome sinusitis chronic,disease
+sick sinus syndrome sjs,disease
+sickle cell anemia skin cancer melanoma,disease
+sinus headache skin writing,disease
+sjogren syndrome skin itchy,disease
+skin cancer skipped heartbeat,disease
+sleep apnea slapped cheek disease,disease
+sleep disorder sleep apnea child obstructive,disease
+sleep terror night terror sleep apnea central,disease
+sleepwalking sleep apnea obstructive,disease
+small bowel cancer sleep terror,disease
+small bowel prolapse enterocele sleepiness daytime,disease
+small intestinal bacterial overgrowth sibo sleeplessness,disease
+small vessel disease slipped disk,disease
+smallpox slow heartbeat,disease
+snoring small bowel bacterial overgrowth,disease
+social anxiety disorder social phobia small bowel prolapse,disease
+soft palate cancer small intestine prolapse,disease
+soft tissue sarcoma solar keratosis,disease
+solitary fibrous tumor solar lentigo,disease
+solitary rectal ulcer syndrome somnambulism,disease
+somatic symptom disorder spasmodic torticollis,disease
+sore throat specific reading disability,disease
+specific phobia spinal curvature,disease
+spermatocele splenomegaly,disease
+spider bite spondylosis cervical,disease
+spina bifida stammering,disease
+spinal arteriovenous malformation avm std,disease
+spinal cord injury syndrome,disease
+spinal cord tumor syndrome,disease
+spinal headache stenosing tenosynovitis,disease
+spinal stenosis stenosis aortic valve,disease
+spontaneous coronary artery dissection scad stenosis mitral valve,disease
+sprained ankle stenosis pulmonary valve,disease
+sprain stenosis pyloric,disease
+squamous cell carcinoma skin stenosis spinal,disease
+stage prostate cancer sting bee,disease
+staph infection sting jellyfish,disease
+syndrome sting scorpion,disease
+stomach cancer stomach flu,disease
+stomach polyp stomach pain nonulcer,disease
+strep throat stomatodynia,disease
+stress fracture stool holding,disease
+stress incontinence strawberry hemangioma,disease
+stretch mark stress cardiomyopathy,disease
+stroke stump pain,disease
+stuttering subfertility,disease
+stye sty substance abuse disorder,disease
+subarachnoid hemorrhage substance use disorder,disease
+subconjunctival hemorrhage broken blood vessel eye suicide,disease
+sudden cardiac arrest sun poisoning,disease
+sudden infant death syndrome sids sunken chest,disease
+suicide suicidal thought supranuclear palsy,disease
+sun allergy svt,disease
+sunburn sweating abnormally excessive,disease
+supraventricular tachycardia swelling,disease
+suspicious breast lump syndrome x,disease
+sweating body odor synostosis,disease
+swimmer ear systemic exertional intolerance disease,disease
+swimmer itch systemic lupus erythematosus,disease
+swollen knee systemic sclerosis,disease
+lactose intolerance lactase deficiency,disease
+laryngitis lactation mastitis,disease
+latex allergy lassa fever,disease
+lazy eye amblyopia lateral elbow tendinopathy,disease
+lead poisoning lateral epicondylitis,disease
+left ventricular hypertrophy lateral epicondylosis,disease
+disease lcis,disease
+legionnaire disease leg fracture,disease
+leiomyosarcoma legionellosis,disease
+leukemia lentigo solar,disease
+leukoplakia leukemia acute lymphocytic,disease
+lewy body dementia leukemia acute myelogenous,disease
+louse leukemia chronic lymphocytic,disease
+lichen planus leukemia chronic myelogenous,disease
+lichen sclerosus leukemia general,disease
+lip cancer leukemia hairy cell,disease
+lipoma louse body,disease
+liposarcoma lichen planus oral,disease
+listeria infection lichen simplex chronicus,disease
+liver cancer lip cancer,disease
+liver disease lipodystrophy intestinal,disease
+liver hemangioma listeriosis,disease
+lobular carcinoma situ lcis liver failure acute,disease
+long qt syndrome liver spot,disease
+low blood pressure hypotension liver enlarged,disease
+low sex drive woman localized scleroderma,disease
+low sperm count lockjaw,disease
+lung cancer loss bladder control,disease
+lupus lou gehrig disease,disease
+lupus nephritis low blood sugar,disease
+lyme disease low body temperature,disease
+lymphedema low platelet count,disease
+lymphoma low testosterone,disease
+lynch syndrome priapism,disease
+malaria macular degeneration dry,disease
+male breast cancer macular degeneration wet,disease
+male hypogonadism mad cow disease,disease
+male infertility major depressive disorder,disease
+malignant hyperthermia malignant fibrous histiocytoma,disease
+malignant peripheral nerve sheath tumor malignant mesothelioma,disease
+mammary duct ectasia mallet toe hammertoe,disease
+marfan syndrome mals,disease
+mastitis illness,disease
+mcad deficiency masld,disease
+measles mastalgia,disease
+median arcuate ligament syndrome mals md,disease
+medication overuse headache nan,disease
+medulloblastoma measles german,disease
+melanoma medial epicondylitis,disease
+meniere disease medial tibial stress syndrome,disease
+meningioma mediterranean anemia,disease
+meningitis megacolon,disease
+menopause megaloblastic anemia,disease
+menstrual cramp melanoma eye,disease
+mental illness men,disease
+meralgia paresthetica meniscus tear,disease
+merkel cell carcinoma menorrhagia,disease
+mesenteric ischemia metabolic steatotic liver disease,disease
+mesenteric lymphadenitis metastatic prostate cancer,disease
+mesothelioma staphylococcus aureus infection,disease
+metabolic syndrome mg,disease
+metachromatic leukodystrophy mgus,disease
+metatarsalgia microscopic hematuria,disease
+microcephaly miliaria,disease
+microscopic colitis milk intolerance,disease
+migraine mog disorder,disease
+migraine aura mogad,disease
+mild cognitive impairment mci mono,disease
+milk allergy m,disease
+miscarriage msa,disease
+mitral valve disease mucocutaneous lymph node syndrome,disease
+mitral valve prolapse multiple endocrine neoplasia type,disease
+mitral valve regurgitation myocardial infarction,disease
+mitral valve stenosis myopia,disease
+paget disease bone pad,disease
+paget disease breast paes,disease
+painful intercourse dyspareunia pain back,disease
+pancreatic cancer pain chest,disease
+pancreatic cyst pain wrist,disease
+pancreatic neuroendocrine tumor painful bladder syndrome,disease
+pancreatitis painful period,disease
+panic attack panic disorder palsy bell,disease
+paraganglioma palsy cerebral,disease
+paraneoplastic syndrome nervous system palsy facial,disease
+parkinson disease pancreas inflammation,disease
+parotid tumor papvr,disease
+partial anomalous pulmonary venous return paraneoplastic neurological disorder,disease
+parvovirus infection paraneoplastic neurological syndrome,disease
+patellar tendinitis partial anomalous pulmonary venous connection,disease
+patellofemoral pain syndrome pathological gambling,disease
+patent ductus arteriosus pda pathological laughter cry,disease
+patent foramen ovale pathological stealing,disease
+peanut allergy pba,disease
+pectus excavatum pcos,disease
+pediatric brain tumor pda,disease
+pediatric obstructive sleep apnea pediculosis capitis,disease
+pediatric white blood cell disorder pelvic pain chronic,disease
+pelvic inflammatory disease pid pelvic support problem uterine prolapse,disease
+pelvic organ prolapse perforated eardrum,disease
+pemphigus pericardial inflammation,disease
+penicillin allergy periodontal disease gingivitis,disease
+peptic ulcer periodontal disease periodontitis,disease
+pericardial effusion peripheral vascular disease,disease
+pericarditis pernicious anemia,disease
+perimenopause pernio,disease
+periodontitis peroneal muscular atrophy,disease
+peripheral artery disease pad personality disorder antisocial,disease
+peripheral nerve injury personality disorder borderline,disease
+peripheral nerve tumor personality disorder narcissistic,disease
+peripheral neuropathy personality disorder schizoid,disease
+peritonitis personality disorder schizotypal,disease
+persistent depressive disorder pertussis,disease
+persistent symptom syndrome pe planus,disease
+personality disorder petit mal seizure,disease
+pet allergy pharyngitis,disease
+peyronie disease phlebitis,disease
+phenylketonuria pku phobia social,disease
+pheochromocytoma pick disease,disease
+pilonidal cyst pid,disease
+pinched nerve pile,disease
+pineoblastoma pilonidal dimple,disease
+pink eye conjunctivitis pimple,disease
+pinworm infection pituitary adenoma,disease
+pituitary tumor pituitary insufficiency,disease
+pityriasis rosea pityriasis versicolor,disease
+placenta accreta pkd,disease
+placenta previa pku,disease
+placental abruption plantar neuroma,disease
+plague pleuritis,disease
+plantar fasciitis pls,disease
+plantar wart polyp colon,disease
+pleurisy polyp endometrial,disease
+pneumonia polyp nasal,disease
+pneumonitis polyp stomach,disease
+pneumothorax polyp uterine,disease
+poem syndrome pompholyx,disease
+poison ivy rash poor color vision,disease
+polio popliteal cyst,disease
+polycystic kidney disease injury syndrome,disease
+polycystic ovary syndrome pcos cognitive impairment,disease
+polycythemia vera syndrome,disease
+polyhydramnios posterior prolapse,disease
+polymorphous light eruption postmyocardial infarction syndrome,disease
+polymyalgia rheumatica postural hypotension,disease
+polymyositis syndrome,disease
+popliteal artery aneurysm preexcitation syndrome,disease
+popliteal artery entrapment hypertension,disease
+porphyria premature ovarian failure,disease
+posterior cortical atrophy premature ovarian insufficiency,disease
+posterior vaginal prolapse rectocele premature puberty,disease
+postherpetic neuralgia premenstrual syndrome,disease
+postpartum depression presbycusis,disease
+postpartum preeclampsia pressure sore,disease
+syndrome pressure ulcer,disease
+stress disorder ptsd prickly heat,disease
+pain syndrome primary adrenal insufficiency,disease
+pouchitis primary biliary cirrhosis,disease
+syndrome primary polycythemia,disease
+precocious puberty prolapse mitral valve,disease
+prediabetes prolapsed bladder,disease
+preeclampsia prolapsed uterus,disease
+premature birth prostate gland enlargement,disease
+premature ejaculation pruritis ani,disease
+premature ventricular contraction pvc pruritus,disease
+premenstrual syndrome pm ptsd,disease
+presbyopia puffy eye,disease
+prescription drug abuse pvc,disease
+preterm labor pvd,disease
+priapism pvps,disease
+primary biliary cholangitis pyelonephritis,disease

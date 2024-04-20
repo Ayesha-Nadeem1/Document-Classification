@@ -15,8 +15,6 @@ import seaborn as sns
 
 # Function to make a directed graph from text
 def make_graph(text):
-    if text is None or not isinstance(text, str) or text.strip() == "":
-        return None
     # Split the text into words
     words = re.findall(r'\b\w+\b', text)
     # Create a directed graph
@@ -110,8 +108,8 @@ train_texts, test_texts, train_labels, test_labels = train_test_split(texts, lab
 # print(test_texts)
 
 # Construct graphs for training and test data
-train_graphs = [make_graph(text) for text in train_texts]
-test_graphs = [make_graph(text) for text in test_texts]
+train_graphs = [make_graph(text) for text in train_texts if text is not None]
+test_graphs = [make_graph(text) for text in test_texts if text is not None]
 
 # Extract common subgraphs from training set
 common_subgraphs = extract_common_subgraphs(train_graphs)
