@@ -8,10 +8,10 @@ Created on Fri Apr 19 21:59:41 2024
 import pandas as pd
 
 # List of input CSV files
-input_files = ["train_disease_data_preprocessed.csv", "train_health_data_preprocessed.csv", "train_travel_data.csv"]
+input_files = ["test_disease_data_preprocessed.csv", "test_health_data_preprocessed.csv", "test_travel_data.csv"]
 
 # Output CSV file
-output_file = "merged_data.csv"
+output_file = "merged_test_data.csv"
 
 # Merge CSV files
 dfs = []
