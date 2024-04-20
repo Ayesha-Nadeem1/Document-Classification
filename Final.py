@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Apr 20 22:54:10 2024
+
+@author: HP
+"""
+
 import re
 import pandas as pd
 import networkx as nx
@@ -6,9 +13,9 @@ import seaborn as sns
 from sklearn.metrics import accuracy_score, f1_score, jaccard_score, confusion_matrix
 
 # Read data from CSV files
-health_df = pd.read_csv("train_health_data_preprocessed.csv")
-disease_df = pd.read_csv("train_disease_data_preprocessed.csv")
-travel_df = pd.read_csv("train_travel_data.csv")
+health_df = pd.read_csv("train_health.csv")
+disease_df = pd.read_csv("train_disease.csv")
+travel_df = pd.read_csv("train_travel.csv")
 
 # Concatenate all dataframes
 all_data = pd.concat([health_df, disease_df, travel_df], ignore_index=True)
@@ -69,82 +76,81 @@ class GraphKNN:
         prediction = max(set(nearest_labels), key=nearest_labels.count)
         return prediction
 
+# Plot confusion matrix
+def plot_confusion_matrix(true_labels, predicted_labels, classes):
+    cm = confusion_matrix(true_labels, predicted_labels, labels=classes)
+    plt.figure(figsize=(8, 6))
+    sns.set(font_scale=1.2)
+    sns.heatmap(cm, annot=True, fmt='d', cmap='Blues', cbar=False,
+                xticklabels=classes, yticklabels=classes)
+    plt.xlabel('Predicted')
+    plt.ylabel('True')
+    plt.title('Confusion Matrix')
+    plt.show()
+
 # Prepare training data
 train_texts = all_data['text'].tolist()
-# Select the first 1000 labels
-train_labels_first = all_data['label'][:1000].tolist()
-
-# Calculate the start index for the next 1000 labels from the center
-center_start_index = len(all_data) // 2 - 500
-
-# Select the next 1000 labels from the center
-train_labels_center = all_data['label'][center_start_index:center_start_index + 1000].tolist()
-
-# Select the last 1500 labels
-train_labels_last = all_data['label'][-1500:].tolist()
-
-# Concatenate the three segments to get the final train labels
-train_labels = train_labels_first + train_labels_center + train_labels_last
-print(len(train_labels))
+train_labels = all_data['label'].tolist()
 train_graphs = [make_graph(text) for text in train_texts]
 
 # Train the model
-graph_classifier = GraphKNN(k=3)
+graph_classifier = GraphKNN(k=1)
 graph_classifier.fit(train_graphs, train_labels)
 
-# Test data
+# Read data from CSV files
+health_df = pd.read_csv("test_health.csv")
+disease_df = pd.read_csv("test_disease.csv")
+travel_df = pd.read_csv("test_travel.csv")
 
-# Specify the path to your test data CSV file
-# Specify the path to your test data CSV file
-test_data_path = "merged_test_data.csv"
+# Concatenate all dataframes
+test_data = pd.concat([health_df, disease_df, travel_df], ignore_index=True)
+test_data['text'] = test_data['text'].apply(preprocess)
+test_texts = test_data['text'].tolist()
+test_labels = test_data['label'].tolist()
 
-# Read the test data from the CSV file
-test_df = pd.read_csv(test_data_path)
-
-# Assuming your CSV file has a column named 'text' containing the text samples
-test_texts = test_df['text'].tolist()
-test_labels = test_df['label'][:3500].tolist()
-print(len(test_labels))
-# Define a regular expression pattern to match words
-pattern = re.compile(r'\b[A-Za-z]+\b')
-
-# Extract only words from the text samples
-filtered_texts = []
-for text in test_texts:
-    words = pattern.findall(text)
-    filtered_texts.extend(words)
-
-# Preprocess test data
-test_texts = [preprocess(text) for text in filtered_texts]
-# Make graphs for test data
 test_graphs = [make_graph(text) for text in test_texts]
 
 # Predict
 predictions = [graph_classifier.predict(graph) for graph in test_graphs]
 predictions = predictions[:len(test_labels)]
-
+# Evaluate
+#test_labels = ["health", "disease", "travel"]
 # Calculate accuracy
 accuracy = accuracy_score(test_labels, predictions)
-
 # Calculate accuracy
 accuracy_percentage = accuracy * 100
 print("Accuracy: {:.2f}%".format(accuracy_percentage))
 
 # Calculate F1 Score for the second class
 f1_scores = f1_score(test_labels, predictions, average=None)
-f1_score_percentage = f1_scores[1] * 100
-print("F1 Score:", "{:.2f}%".format(f1_score_percentage))
+
+f1_score_percentage0 = f1_scores[0] * 100
+f1_score_percentage1 = f1_scores[1] * 100
+f1_score_percentage2 = f1_scores[2] * 100
+
+print("F1 Score: "
+      "health: {:.2f}% "
+      "disease: {:.2f}% "
+      "travel: {:.2f}%".format(f1_score_percentage0, f1_score_percentage1, f1_score_percentage2))
 
 # Calculate Jaccard similarity for the second class
 jaccard = jaccard_score(test_labels, predictions, average=None)
-jaccard_percentage = jaccard[1] * 100
-print("Jaccard Similarity:", "{:.2f}%".format(jaccard_percentage))
 
-# Generate confusion matrix
-conf_matrix = confusion_matrix(test_labels, predictions)
+jaccard_percentage0 = jaccard[0] * 100
+jaccard_percentage1 = jaccard[1] * 100
+jaccard_percentage2 = jaccard[2] * 100
+
+print("Jaccard Similarity: "
+      "health: {:.2f}% "
+      "disease: {:.2f}% "
+      "travel: {:.2f}%".format(jaccard_percentage0, jaccard_percentage1, jaccard_percentage2))
+
 # Plot confusion matrix
+conf_matrix = confusion_matrix(test_labels, predictions, labels=list(set(test_labels)))
+
 plt.figure(figsize=(8, 6))
-sns.heatmap(conf_matrix, annot=True, fmt='d', cmap='Blues', xticklabels=set(test_labels))
+sns.set(font_scale=1.2)
+sns.heatmap(conf_matrix, annot=True, fmt='d', cmap='Blues', xticklabels=set(test_labels), yticklabels=set(test_labels))
 plt.xlabel('Predicted labels')
 plt.ylabel('True labels')
 plt.title('Confusion Matrix')
